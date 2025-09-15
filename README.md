@@ -28,7 +28,7 @@ It allows user to perform basic banking operation like deposit, withdrawl, balan
 🤲 AUTHOR:
 
 * MAHTAB AZEEZ BAIG
-First- year computer Science student.🚀
+* First- year computer Science student.🚀
 
 
 
