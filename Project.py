@@ -1,7 +1,15 @@
 #Mini ATM Simulation
 
 Balance=50000
-name= input("Enter your name:")
+
+
+
+
+
+
+
+
+name=input("enter your name :")
 
 
 
@@ -35,9 +43,10 @@ elif(choice==3):
         print("Withdraw is successfully done.\nNew balance:",Balance,"\nThank you visit again")
     else:
         print("Balance Unsuffient!") 
-
+    
 elif(choice==4):
-     print("Thank you to visit canara bank ATM.")
+    print("Thank you to visit canara bank ATM.")
+
     
      
     
